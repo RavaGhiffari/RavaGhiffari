@@ -60,11 +60,7 @@ I enjoy working with real-world datasets and continuously improving my analytica
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rava&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rava&layout=compact&theme=tokyonight" width="48%" />
-</p>
+![Rava's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 ---
 
