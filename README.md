@@ -4,7 +4,6 @@
 💡 Passionate about turning data into actionable insights
 
 ---
-
 ## 🚀 About Me
 
 I am a Data Science student with strong interest in:
@@ -16,7 +15,6 @@ I am a Data Science student with strong interest in:
 I enjoy working with real-world datasets and continuously improving my analytical and programming skills.
 
 ---
-
 ## 🛠️ Tech Stack
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
@@ -27,18 +25,11 @@ I enjoy working with real-world datasets and continuously improving my analytica
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
 ### 📌 Programming & Analysis
 - **Python** (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - **R** (statistical analysis & visualization)
 - **SQL** (MySQL, MSSQL)
 - **Excel** (advanced formulas, dashboards)
-
-### 📌 Machine Learning & Data Science
-- Regression & Classification Models  
-- Random Forest, XGBoost  
-- KNN (manual & library-based)  
-- Bayesian Statistics & Monte Carlo Methods  
 
 ### 📌 Tools & Platforms
 - Jupyter Notebook  
@@ -48,7 +39,6 @@ I enjoy working with real-world datasets and continuously improving my analytica
 - Streamlit  
 
 ---
-
 ## 📂 Featured Projects
 
 🔹 **Machine Learning Projects**  
@@ -67,12 +57,10 @@ I enjoy working with real-world datasets and continuously improving my analytica
 > 📌 *More projects coming soon — stay tuned!*
 
 ---
-
 ## 📫 Connect With Me
 
 - 💼 **LinkedIn**: *www.linkedin.com/in/ravakustiwa*
 - 📧 **Email**: *rava.ghiffari@gmail.com*
 
 ---
-
 ⭐ *Feel free to explore my repositories and don't forget to star if you find something useful!*
