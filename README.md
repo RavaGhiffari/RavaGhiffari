@@ -43,7 +43,6 @@ I enjoy working with real-world datasets and continuously improving my analytica
 ## 📂 Featured Projects
 
 🔹 **Machine Learning Projects**  
-- Titanic Survival Prediction (Kaggle)
 - Productivity Prediction using ANN
 - Hotel Booking ML Pipeline (OOP-based)
 
@@ -63,16 +62,16 @@ I enjoy working with real-world datasets and continuously improving my analytica
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rava&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rava&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn**: *(add your link here)*
-- 📧 **Email**: *(add your email here)*
+- 💼 **LinkedIn**: *www.linkedin.com/in/ravakustiwa*
+- 📧 **Email**: *rava.ghiffari@gmail.com*
 
 ---
 
