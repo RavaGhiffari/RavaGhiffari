@@ -18,6 +18,15 @@ I enjoy working with real-world datasets and continuously improving my analytica
 ---
 
 ## 🛠️ Tech Stack
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 ### 📌 Programming & Analysis
 - **Python** (pandas, numpy, matplotlib, seaborn, scikit-learn)
@@ -56,11 +65,6 @@ I enjoy working with real-world datasets and continuously improving my analytica
 - Financial Cashflow Analysis App (UMKM-focused)
 
 > 📌 *More projects coming soon — stay tuned!*
-
----
-
-## 📈 GitHub Stats
-![Rava's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavaGhiffari&show_icons=true)
 
 ---
 
