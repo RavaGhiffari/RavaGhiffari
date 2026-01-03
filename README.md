@@ -60,7 +60,7 @@ I enjoy working with real-world datasets and continuously improving my analytica
 ---
 
 ## 📈 GitHub Stats
-![Rava's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Rava's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavaGhiffari&show_icons=true)
 
 ---
 
