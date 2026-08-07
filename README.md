@@ -23,6 +23,7 @@ I enjoy working with real-world datasets and continuously improving my analytica
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 ### 📌 Programming & Analysis
@@ -30,6 +31,7 @@ I enjoy working with real-world datasets and continuously improving my analytica
 - **R** (statistical analysis & visualization)
 - **SQL** (MySQL, MSSQL)
 - **Excel** (advanced formulas, dashboards)
+- **Laravel** (MVC Mastery)
 
 ### 📌 Tools & Platforms
 - Jupyter Notebook  
